@@ -7,12 +7,12 @@ from torch_geometric.utils import to_undirected
 import sklearn.model_selection
 
 # mordred descriptor data path
-DESCRIPTOR_PATH = '/data/bai/Env_Health/cleanData/sortedFeat_impDesc.csv'
+DESCRIPTOR_PATH = 'sortedFeat_impDesc.csv'
 # molecular fingerprint path
-FINGERPRINT_PATH = '/data/bai/Env_Health/cleanData/AP2D_count_stand.csv'
+FINGERPRINT_PATH = 'AP2D_count_stand.csv'
 
 # Assign desciptor and fingerprint to features or graph construction (similarity scores)
-# best model is using descriptor for features and descriptor for similarity 
+# best model is using descriptor for features and fingerprint for the similarity score 
 SIMILARITY_SCORE = 'fingerprint'
 
 # define minimum # of edges per PFAS
