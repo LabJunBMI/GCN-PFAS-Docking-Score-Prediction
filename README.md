@@ -1,10 +1,8 @@
 # GCN-PFAS-Docking-Score-Prediction
 
-# Uncovering the Mechanism of Hepatotoxicity of PFAS Targeting L-FABP Using GCN and Computational Modeling
-
 ## Overview
 
-This repository contains the code, data, and results related to my thesis titled Uncovering the Mechanism of Hepatotoxicity ofPFAS Targeting L-FABP Using GCN and Computational Modeling.
+This repository contains the code, data, and results related to my thesis titled Uncovering the Mechanism of Hepatotoxicity of PFAS Targeting L-FABP Using GCN and Computational Modeling.
 
 ## Table of Contents
 
